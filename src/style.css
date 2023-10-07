@@ -1,9 +1,11 @@
 body {
   font-family: arial, sans-serif;
+  background-color: lightskyblue;
+  object-fit: cover;
 }
 
 h1 {
-  color: #878787;
+  color: white;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -20,7 +22,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color:white(135, 135, 135);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
